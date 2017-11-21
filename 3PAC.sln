@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3PAC", "3PAC.csproj", "{1FCD1283-5A64-94F3-CFDA-F1758FDA6175}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3PAC.Plugins", "3PAC.Plugins.csproj", "{9253B58A-7428-3D6B-19A0-D7F4A4586406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{1FCD1283-5A64-94F3-CFDA-F1758FDA6175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FCD1283-5A64-94F3-CFDA-F1758FDA6175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FCD1283-5A64-94F3-CFDA-F1758FDA6175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9253B58A-7428-3D6B-19A0-D7F4A4586406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9253B58A-7428-3D6B-19A0-D7F4A4586406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9253B58A-7428-3D6B-19A0-D7F4A4586406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9253B58A-7428-3D6B-19A0-D7F4A4586406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
